@@ -1,1 +1,1 @@
-# dot-files
+# My i3-config file 
